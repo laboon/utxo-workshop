@@ -37,7 +37,7 @@ cargo install --git https://github.com/alexcrichton/wasm-gc
 ### Clone the workshop boilerplate
 ```zsh
 git clone https://github.com/nczhu/utxo-workshop.git
-git checkout -b workshop
+git checkout workshop
 
 # Double check that it builds correctly
 ./build.sh
